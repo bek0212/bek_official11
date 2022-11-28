@@ -1,0 +1,41 @@
+.ccontainer{
+    width: 600px;
+    height: 400px;
+    border-radius: 50px;
+    margin: 230px auto;
+    box-shadow:  5px 0px 15px 1px green;
+    background: none;
+    backdrop-filter: blur(20px);
+    position: relative;
+    .span{
+        background: none;
+        font-size: 40px;
+        text-decoration-line:overline;
+        font-weight: 800;
+        font-family: cursive;
+        // color: rgb(236, 215, 215);
+        color: red;
+        position: absolute;
+        top: 30px;
+        left: 50px;
+    }
+    h1{
+        background: none;
+        color: wheat;
+        font-family: cursive;
+        font-size: 35px;
+        position: absolute;
+        left: 50px;
+        top: 200px;
+    }
+    h3{
+        background: none;
+        color: wheat;
+        font-family: cursive;
+        font-size: 35px;
+        position: absolute;
+        left: 50px;
+        top: 280px;
+    }
+    
+}
